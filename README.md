@@ -1,1 +1,1 @@
-# polis-raspberry
+# polaris-raspberry
